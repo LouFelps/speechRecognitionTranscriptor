@@ -1,0 +1,5 @@
+SpeechRecognition
+moviepy==1.0.3
+pydub
+pydub
+openai-whisper
